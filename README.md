@@ -95,3 +95,7 @@ foreach (Time t in times)
 }
 
 
+![image](https://github.com/dyeyniyel/comp123-lab3-part1-Time/assets/158533198/1a91a8d6-7a7c-4023-a082-138936b2684c)
+
+
+
